@@ -1,1 +1,3 @@
-# jiwon-choi.github.io
+# Jiwon Choi Blog
+
+This repository hosts my personal blog using GitHub Pages.
